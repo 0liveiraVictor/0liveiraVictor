@@ -1,19 +1,36 @@
-<div>
-
-[![Hello! Welcome to my github homepage](https://user-images.githubusercontent.com/106946476/195215270-9186e9e6-d6cf-4569-8a3a-63c2e331792a.png)](https://github.com/0liveiraVictor)
-
-</div>
-
-
-
-
+<!--
+---------------------------------------------------------------------ABERTURA DO README--------------------------------------------------------------------
+-->
 
 <div>
   
+  <a href="https://github.com/0liveiraVictor"> 
+    <img align="center" src="https://user-images.githubusercontent.com/106946476/195245818-e9f2ac28-19eb-4d18-96ab-58215a00e287.png" />
+  </a>
 
 </div>
 
+<!--
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+-->
 
+<!--
+------------------------------------------------------------------------ABOUT ME_DIV-----------------------------------------------------------------------
+-->
+
+<div>
+  
+  ## About Me
+  
+  <p align = "Justify">🚧 Under construction . . . 🚧</p>
+
+</div>
+
+<!--
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+-->
+
+</br>
 
 
 <!--
@@ -23,11 +40,11 @@
 <div>
 
   <a href="https://github.com/0liveiraVictor">
-    <img height="210cm" align="left" src="https://github-readme-stats.vercel.app/api?username=0liveiraVictor&line_height=25&card_width=430&border_radius=4&show_icons=true&count_private=true&theme=gotham" />
+    <img height="200cm" align="left" src="https://github-readme-stats.vercel.app/api?username=0liveiraVictor&line_height=25&card_width=400&border_radius=4&show_icons=true&count_private=true&theme=gotham" />
   </a>
   
   <a href="https://github.com/0liveiraVictor">
-    <img height="210cm" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0liveiraVictor&layout=compact&card_width=280&border_radius=4&langs_count=10&theme=gotham" />
+    <img height="200cm" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0liveiraVictor&layout=compact&card_width=250&border_radius=4&langs_count=10&theme=gotham" />
   </a>
 
 </div>
