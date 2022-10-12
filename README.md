@@ -14,13 +14,68 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 -->
 
+</br>
+
 <!--
 ------------------------------------------------------------------------ABOUT ME_DIV-----------------------------------------------------------------------
 -->
 
 <div>
   
-  ## About Me
+  ## About me
+  
+  <p align = "Justify">
+    🚧 Under construction . . . 🚧
+  </p>
+
+</div>
+
+<!--
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+-->
+
+</br>
+
+<!--
+------------------------------------------------------------------------TOOLKIT_DIV-----------------------------------------------------------------------
+-->
+
+## Toolkit
+
+  <p align = "Justify">
+    🚧 Under construction . . . 🚧
+  </p>
+
+<!--
+
+<div style="display: inline_block">
+  <a href="XXX">
+    <img height = "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+  </a>
+  <a href="XXX">
+    <img height = "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  </a>  
+  <a href="XXX">
+    <img height = "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  </a>          
+
+</div>
+
+-->
+
+<!--
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+-->
+
+</br>
+
+<!--
+-------------------------------------------------------------------------CONTACT_DIV-----------------------------------------------------------------------
+-->
+
+<div>
+  
+  ## Contact 
   
   <p align = "Justify">
     🚧 Under construction . . . 🚧
@@ -41,11 +96,11 @@
 <div>
 
   <a href="https://github.com/0liveiraVictor">
-    <img height="180cm" align="left" src="https://github-readme-stats.vercel.app/api?username=0liveiraVictor&line_height=25&card_width=370&border_radius=4&show_icons=true&count_private=true&theme=gotham" />
+    <img height="180cm" align="left" src="https://github-readme-stats.vercel.app/api?username=0liveiraVictor&line_height=25&card_width=380&border_radius=4&show_icons=true&count_private=true&theme=gotham" />
   </a>
   
   <a href="https://github.com/0liveiraVictor">
-    <img height="180cm" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0liveiraVictor&layout=compact&card_width=210&border_radius=4&langs_count=10&theme=gotham" />
+    <img height="180cm" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0liveiraVictor&layout=compact&card_width=280&border_radius=4&langs_count=10&theme=gotham" />
   </a>
 
 </div>
@@ -58,28 +113,9 @@
 
 
 
-
 <div>
 
 </div>
-
-<div>
-
-</div>
-
-
-<div>
-
-</div>
-
-<div>
-
-</div>
-
-<!--
-
--->
-
 
 
 <!--
