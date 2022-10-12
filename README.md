@@ -40,11 +40,11 @@
 <div>
 
   <a href="https://github.com/0liveiraVictor">
-    <img height="200cm" align="left" src="https://github-readme-stats.vercel.app/api?username=0liveiraVictor&line_height=25&card_width=400&border_radius=4&show_icons=true&count_private=true&theme=gotham" />
+    <img height="200cm" align="left" src="https://github-readme-stats.vercel.app/api?username=0liveiraVictor&line_height=25&card_width=380&border_radius=4&show_icons=true&count_private=true&theme=gotham" />
   </a>
   
   <a href="https://github.com/0liveiraVictor">
-    <img height="200cm" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0liveiraVictor&layout=compact&card_width=250&border_radius=4&langs_count=10&theme=gotham" />
+    <img height="200cm" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0liveiraVictor&layout=compact&card_width=230&border_radius=4&langs_count=10&theme=gotham" />
   </a>
 
 </div>
