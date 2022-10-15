@@ -23,7 +23,7 @@
   ## About me
   
   <p align = "Justify">
-    🚧 Under construction . . . 🚧
+    <b> A scientist intrigued by the concept of 'time', a lover of music and the arts, and an enthusiast of modern technology. I'm a physicist with and master's in energy and nuclear technologies, by training (B.Sc. and M.Sc.), and I have been working since 2014 in academies and scientific research institutes in Brazil. I'm interested in topics that involve the use of radiation physics in the health area, especially in radiotherapy. I have experience in modeling linear accelerators and radiation sources, Monte Carlo simulation, computational dosimetry, distribution, and data analysis. Currently, I'm in the process of formation in web development, particularly in the back end. At first, I seek to improve myself in the area and, in not too distant future, build a more solid foundation in the front-end area too. </b>
   </p>
 
 </div>
