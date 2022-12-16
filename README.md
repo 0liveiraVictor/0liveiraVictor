@@ -4,8 +4,10 @@
 
 <div>
   
-  <p href="https://github.com/0liveiraVictor" align="center"> 
-    <img height= "160" width="640" src="https://user-images.githubusercontent.com/106946476/195957281-202fcf8d-1e06-4302-bcf3-8dd62c4c2529.png" />
+  <p align="center">
+    <a href="https://github.com/0liveiraVictor">
+      <img height= "160" width="640" src="https://user-images.githubusercontent.com/106946476/195957281-202fcf8d-1e06-4302-bcf3-8dd62c4c2529.png" />
+    </a>
   </p>
 
 </div>
